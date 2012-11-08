@@ -1,0 +1,1 @@
+RUBYOPT="-rsystemu" ./child.rb
